@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O "Sorteio de Números de Amigos" é um jogo divertido e interativo que permite que grupos de amigos sorteiem números de forma aleatória. Ideal para festas, reuniões ou eventos, o jogo garante que todos participem e se divirtam enquanto esperam pelo resultado do sorteio.
+O "Sorteio de Amigos" é um jogo divertido e interativo que permite que grupos de amigos sorteiem números de forma aleatória. Ideal para festas, reuniões ou eventos, o jogo garante que todos participem e se divirtam enquanto esperam pelo resultado do sorteio.
 
 ## Objetivo
 
