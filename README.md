@@ -1,4 +1,4 @@
-# Desafio-Sorteio-Amigos
+# Sorteio Amigos
 
 ## Descrição
 
