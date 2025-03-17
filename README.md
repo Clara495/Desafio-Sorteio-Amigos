@@ -6,7 +6,7 @@ O "Sorteio de Amigos" é um jogo divertido e interativo que permite que grupos d
 
 ## Objetivo
 
-O objetivo do jogo é sortear um número que representa cada amigo, promovendo um ambiente de camaradagem e diversão. Pode ser usado para diferentes finalidades, como escolher quem irá realizar uma tarefa, decidir quem será o próximo a escolher um filme, entre outras atividades.
+O objetivo do jogo é sortear o nome de cada amigo, promovendo um ambiente de diversão. Pode ser usado para diferentes finalidades, como escolher quem irá realizar uma tarefa, decidir quem será o próximo a escolher um filme, entre outras atividades.
 
 ## Funcionalidades
 
@@ -25,16 +25,8 @@ O objetivo do jogo é sortear um número que representa cada amigo, promovendo u
    - Aguarde enquanto o sistema realiza o sorteio.
 
 3. **Ver Resultados**:
-   - Os números sorteados serão exibidos na tela.
+   - O nome sorteado sera exibido na tela.
    - Divirta-se e veja quem foi o grande sortudo!
-
-## Requisitos
-
-- **Navegador**: Qualquer navegador moderno (Chrome, Firefox, Safari, etc.).
-- **Dispositivo**: Pode ser jogado em computadores, tablets ou smartphones.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja melhorar o jogo, sinta-se à vontade para abrir um pull request ou relatar problemas.
+     
 
 Divirta-se jogando e que o melhor amigo vença! 🎉
