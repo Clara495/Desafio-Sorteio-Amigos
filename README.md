@@ -28,5 +28,6 @@ O objetivo do jogo é sortear o nome de cada amigo, promovendo um ambiente de di
    - O nome sorteado sera exibido na tela.
    - Divirta-se e veja quem foi o grande sortudo!
      
+     
 
 Divirta-se jogando e que o melhor amigo vença! 🎉
